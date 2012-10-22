@@ -1,5 +1,5 @@
-Core
-====
+Bomberman (core)
+================
 
 .. |username_format| replace:: [a-zA-Z0-9\_]{3,15}
 .. |password_format| replace:: .{1,256}
