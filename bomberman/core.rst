@@ -3,7 +3,7 @@ Bomberman (core)
 
 .. |username_format| replace:: [a-zA-Z0-9\_]{3,15}
 .. |password_format| replace:: .{1,256}
-.. |sid_format| replace:: [a-zA-Z0-9]{32}
+.. |sid_format| replace:: [a-zA-Z0-9]{24}
 .. |chat_message_format| replace:: .{1,256}
 
 Введение
